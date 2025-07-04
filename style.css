@@ -79,6 +79,20 @@
   }
 </style>
 
+@media (max-width: 768px) {
+  div {
+    padding: 20px;
+  }
+
+  h1 {
+    font-size: 20px;
+  }
+
+  img {
+    width: 120px;
+  }
+}
+
 
 body {
   font-family: 'Segoe UI', sans-serif;
